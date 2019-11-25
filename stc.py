@@ -1,2 +1,2 @@
 print("vignesh is very good boy")
-print
+print("vigneh is too honest")
